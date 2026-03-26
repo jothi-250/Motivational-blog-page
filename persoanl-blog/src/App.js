@@ -67,12 +67,12 @@ function App() {
       }}
     >
 
-      {/* HEADING */}
+     
       <h1 style={{ marginBottom: "30px", color: "#F5F5F5" }}>
         Personal Development Zone 📝
       </h1>
 
-      {/* BLOG GRID */}
+     
       <div
         style={{
           width: "70%",
